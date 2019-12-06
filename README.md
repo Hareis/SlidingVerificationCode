@@ -5,4 +5,6 @@
 然后分别跑起来项目
  
  在localhost:8080 中能看到效果
+
+ 
 <img src='https://raw.githubusercontent.com/Hareis/SlidingVerificationCode/master/public/images/pic1.png'>
